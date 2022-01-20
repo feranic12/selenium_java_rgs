@@ -58,7 +58,6 @@ public class MiteTest extends TestBase {
 		    }
 		    webDriver.findElement(By.cssSelector(".text-right > .btn")).click();
 		    webDriver.findElement(By.cssSelector(".row:nth-child(2) .custom-control-label")).click();
-		    System.in.read();
 		  }
 		}
 
