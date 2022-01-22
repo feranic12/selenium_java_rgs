@@ -94,14 +94,14 @@
 			</properties>
 		</profile>
 		<profile>
-			<id>firefox_local</id>
+			<id>firefox</id>
 			<properties>
 				<env>local</env>
 				<user.username></user.username>
 				<user.password></user.password>
 				<grid2.hub></grid2.hub>
 				<site.url></site.url>
-				<browser.name>firefix</browser.name>
+				<browser.name>firefox</browser.name>
 				<browser.version></browser.version>
 				<browser.platform></browser.platform>
 			</properties>
